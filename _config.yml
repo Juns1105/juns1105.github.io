@@ -1,6 +1,9 @@
-title: Minimal theme
+title: Junsik Jung
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Computer Vision Researcher
+url: https://jsjung.github.io
+baseurl: ""
+author/name:Junsik Jung
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
