@@ -1,22 +1,74 @@
 main:
+  - title: "Event-guided Blur Synthesis for Domain Adaptation in Motion Deblurring"
+    authors: "<strong>Junsik Jung</strong>, Seokryun Choi, Yoonki Cho, Woo Jae Kim, Andrew Jeong, Sung-Eui Yoon"
+    conference_short: "TMM"
+    conference: "Submitted to IEEE Transactions on Multimedia <strong>(TMM)</strong>"
+    pdf: "#"
+    code: "#"
+    image: "./assets/img/publication_preview/tmm_submission.png"
+    notes: "Under Review"
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Learning Event-guided Exposure-agnostic Video Frame Interpolation via Adaptive Feature Blending"
+    authors: "<strong>Junsik Jung</strong>, Yoonki Cho, Woo Jae Kim, Lin Wang, Sung-Eui Yoon"
+    conference_short: "BMVC"
+    conference: "British Machine Vision Conference <strong>(BMVC)</strong>, 2025"
+    pdf: "#"
+    code: "#"
+    image: "./assets/img/publication_preview/bmvc2025_fi.png"
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "AegisRF: Adversarial Perturbations Guided with Sensitivity for Protecting Intellectual Property of Neural Radiance Fields"
+    authors: "Woo Jae Kim, Kyu Beom Han, Yoonki Cho, Youngju Na, <strong>Junsik Jung</strong>, Sooel Son, Sung-eui Yoon"
+    conference_short: "BMVC"
+    conference: "British Machine Vision Conference <strong>(BMVC)</strong>, 2025"
+    pdf: "#"
+    code: "#"
+    image: "./assets/img/publication_preview/bmvc2025_nerf.png"
+
+  - title: "Synergistic enhancement of long-term plasticity in solid-state electrolyte-gated synaptic transistors realized by introducing an ion-capturing layer"
+    authors: "Dong Hyun Choi, Jong Bin An, Jusung Chung, Kyungho Park, Hyunsik Lee, <strong>Junsik Jung</strong>, Byung Ha Kang, Hyun Jae Kim"
+    conference_short: "Nano Today"
+    conference: "Nano Today, 2025"
+    pdf: "#"
+    code: "#"
+    image: "./assets/img/publication_preview/nano_today.png"
+
+  - title: "Generalizable person re-identification via balancing alignment and uniformity"
+    authors: "Yoonki Cho, Jaeyoon Kim, Woo J Kim, <strong>Junsik Jung</strong>, Sung-Eui Yoon"
+    conference_short: "NeurIPS"
+    conference: "Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024"
+    pdf: "#"
+    code: "#"
+    image: "./assets/img/publication_preview/neurips2024.png"
+
+  - title: "Feature separation and recalibration for adversarial robustness"
+    authors: "Woo Jae Kim, Yoonki Cho, <strong>Junsik Jung</strong>, Sung-Eui Yoon"
+    conference_short: "CVPR"
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023"
+    pdf: "#"
+    code: "#"
+    image: "./assets/img/publication_preview/cvpr2023.png"
+    notes: "Highlight"
+
+  - title: "Deep video inpainting guided by audio-visual self-supervision"
+    authors: "Kyuyeon Kim*, <strong>Junsik Jung*</strong>, Woo Jae Kim, Sung-Eui Yoon (* Equal Contribution)"
+    conference_short: "ICASSP"
+    conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2022"
+    pdf: https://arxiv.org/abs/2310.07663
+    code: https://github.com/kyuyeonpooh/Audio-Visual-Deep-Video-Inpainting
+    image: "./assets/img/publication_preview/icassp2022.png"
+
+  - title: "Wi-Fi based user identification using in-air handwritten signature"
+    authors: "<strong>Junsik Jung</strong>, Han-Cheol Moon, Jooyoung Kim, Donghyun Kim, Kar-Ann Toh"
+    conference_short: "IEEE Access"
+    conference: "IEEE Access, 2021"
+    pdf: https://ieeexplore.ieee.org/document/9395433
+    # code: "#"
+    image: "./assets/img/publication_preview/access2021.png"
+
+  - title: "Transfer learning of Wi-Fi handwritten signature signals for identity verification based on the kernel and the range space projection"
+    authors: "<strong>Junsik Jung</strong>, Jooyoung Kim, Kar-Ann Toh"
+    conference_short: "ICIP"
+    conference: "IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2019"
+    pdf: https://ieeexplore.ieee.org/document/8803371
+    # code: "#"
+    image: "./assets/img/publication_preview/icip2019.png"
