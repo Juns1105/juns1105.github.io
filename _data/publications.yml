@@ -3,8 +3,8 @@ main:
     authors: "<strong>Junsik Jung</strong>, Seokryun Choi, Yoonki Cho, Woo Jae Kim, Andrew Jeong, Sung-Eui Yoon"
     conference_short: "TMM"
     conference: "Submitted to IEEE Transactions on Multimedia <strong>(TMM)</strong>"
-    pdf: "#"
-    code: "#"
+    # pdf: "#"
+    # code: "#"
     image: "./assets/img/publication_preview/tmm_submission.png"
     notes: "Under Review"
 
@@ -12,45 +12,44 @@ main:
     authors: "<strong>Junsik Jung</strong>, Yoonki Cho, Woo Jae Kim, Lin Wang, Sung-Eui Yoon"
     conference_short: "BMVC"
     conference: "British Machine Vision Conference <strong>(BMVC)</strong>, 2025"
-    pdf: "#"
-    code: "#"
-    image: "./assets/img/publication_preview/bmvc2025_fi.png"
+    pdf: https://arxiv.org/abs/2510.22565
+    code: https://github.com/Juns1105/AFB
+    image: "./assets/img/publication_preview/bmvc2025_afb.png"
 
   - title: "AegisRF: Adversarial Perturbations Guided with Sensitivity for Protecting Intellectual Property of Neural Radiance Fields"
     authors: "Woo Jae Kim, Kyu Beom Han, Yoonki Cho, Youngju Na, <strong>Junsik Jung</strong>, Sooel Son, Sung-eui Yoon"
     conference_short: "BMVC"
     conference: "British Machine Vision Conference <strong>(BMVC)</strong>, 2025"
-    pdf: "#"
-    code: "#"
-    image: "./assets/img/publication_preview/bmvc2025_nerf.png"
+    pdf: https://arxiv.org/abs/2510.19371
+    code: https://github.com/wkim97/AegisRF
+    image: "./assets/img/publication_preview/bmvc2025_aegisrf.png"
 
   - title: "Synergistic enhancement of long-term plasticity in solid-state electrolyte-gated synaptic transistors realized by introducing an ion-capturing layer"
     authors: "Dong Hyun Choi, Jong Bin An, Jusung Chung, Kyungho Park, Hyunsik Lee, <strong>Junsik Jung</strong>, Byung Ha Kang, Hyun Jae Kim"
     conference_short: "Nano Today"
     conference: "Nano Today, 2025"
-    pdf: "#"
-    code: "#"
-    image: "./assets/img/publication_preview/nano_today.png"
+    pdf: https://www.sciencedirect.com/science/article/pii/S1748013225000027
+    image: "./assets/img/publication_preview/nano_today2025.png"
 
   - title: "Generalizable person re-identification via balancing alignment and uniformity"
-    authors: "Yoonki Cho, Jaeyoon Kim, Woo J Kim, <strong>Junsik Jung</strong>, Sung-Eui Yoon"
+    authors: "Yoonki Cho, Jaeyoon Kim, Woo Jae Kim, <strong>Junsik Jung</strong>, Sung-Eui Yoon"
     conference_short: "NeurIPS"
     conference: "Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024"
-    pdf: "#"
-    code: "#"
+    pdf: https://arxiv.org/abs/2411.11471
+    code: https://github.com/yoonkicho/BAU
     image: "./assets/img/publication_preview/neurips2024.png"
 
   - title: "Feature separation and recalibration for adversarial robustness"
     authors: "Woo Jae Kim, Yoonki Cho, <strong>Junsik Jung</strong>, Sung-Eui Yoon"
     conference_short: "CVPR"
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023"
-    pdf: "#"
-    code: "#"
-    image: "./assets/img/publication_preview/cvpr2023.png"
+    pdf: https://arxiv.org/abs/2303.13846
+    code: https://github.com/wkim97/FSR
+    image: "./assets/img/publication_preview/cvpr2023_fsr.png"
     notes: "Highlight"
 
   - title: "Deep video inpainting guided by audio-visual self-supervision"
-    authors: "Kyuyeon Kim*, <strong>Junsik Jung*</strong>, Woo Jae Kim, Sung-Eui Yoon (* Equal Contribution)"
+    authors: "Kyuyeon Kim, <strong>Junsik Jung*</strong>, Woo Jae Kim*, Sung-Eui Yoon (* Equal Contribution)"
     conference_short: "ICASSP"
     conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2022"
     pdf: https://arxiv.org/abs/2310.07663
@@ -59,7 +58,7 @@ main:
 
   - title: "Wi-Fi based user identification using in-air handwritten signature"
     authors: "<strong>Junsik Jung</strong>, Han-Cheol Moon, Jooyoung Kim, Donghyun Kim, Kar-Ann Toh"
-    conference_short: "IEEE Access"
+    conference_short: "Access"
     conference: "IEEE Access, 2021"
     pdf: https://ieeexplore.ieee.org/document/9395433
     # code: "#"

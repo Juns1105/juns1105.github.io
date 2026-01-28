@@ -30,3 +30,16 @@ My research interests lie in **Computational Photography** and **Machine Learnin
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
+
+## Honors & Awards
+- **Excellence Teaching Assistant Award**, KAIST School of Computing (2020)
+- **Haedong Scholarship** (full scholarship), Haedong Science & Cultural Foundation (2018 - 2020)
+- **Academic Excellence Award**, University of Seoul (2016)
+
+## Teaching Experience
+- **C/C++ Programming**, KAIST Global Institute For Talented Education (GIFTED) (Fall 2024)
+- **Research & Education Program**, Korea Science Academy (KSA) (Summer 2022)
+- **Theory of Computation (CS422)**, KAIST (Fall 2021)
+- **Large-Scale Image & Video Retrieval (CS688)**, KAIST (Spring 2021)
+- **Data Structure (CS206)**, KAIST (Spring 2020 - Fall 2020)
+
