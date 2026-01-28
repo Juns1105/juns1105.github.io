@@ -9,7 +9,7 @@ Previously, I received my M.S. degree in Electrical & Electronic Engineering fro
 ## Research Interests
 
 My research interests lie in **Computational Photography** and **Machine Learning**, including but not limited to:
-- **Neuromorphic Sensor-based Vision** (Event Cameras)
+- **Event-based Vision** (Event Cameras)
 - **Robust & Efficient Machine Learning**
 - **Scalable Representation Learning**
 
