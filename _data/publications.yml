@@ -1,8 +1,8 @@
 main:
-  - title: "Event-guided Blur Synthesis for Domain Adaptation in Motion Deblurring"
+  - title: "EvBS: Event-guided Diverse Blur Synthesis for Enhancing Domain-adaptive Motion Deblurring"
     authors: "<strong>Junsik Jung</strong>, Seokryun Choi, Yoonki Cho, Woo Jae Kim, Andrew Jeong, Sung-Eui Yoon"
-    conference_short: "TMM"
-    conference: "Submitted to IEEE Transactions on Multimedia <strong>(TMM)</strong>"
+    # conference_short: "TMM"
+    # conference: "Submitted to IEEE Transactions on Multimedia <strong>(TMM)</strong>"
     # pdf: "#"
     # code: "#"
     image: "./assets/img/publication_preview/tmm_submission.png"
