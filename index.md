@@ -11,7 +11,7 @@ Previously, I received my M.S. degree in Electrical & Electronic Engineering fro
 My research interests lie in **Computational Photography** and **Machine Learning**, including but not limited to:
 - **Event-based Vision**
 - **Robust & Efficient Machine Learning**
-- **Scalable Representation Learning**
+- **Multimodal & Scalable Representation Learning**
 
 ## Education
 
