@@ -15,7 +15,7 @@ My research interests lie in **Computational Photography** and **Machine Learnin
 
 ## Education
 
-- **Korea Advanced Institute of Science and Technology (KAIST)**, Ph.D., 2020 - current
+- **Korea Advanced Institute of Science and Technology (KAIST)**, Ph.D., 2020 - 2026
   - Advisor: Prof. [Sung-Eui Yoon](https://sgvr.kaist.ac.kr/~sungeui/)
 - **Yonsei University**, M.S., 2018 - 2020
   - Advisor: Prof. [Kar-Ann Toh](https://ee.yonsei.ac.kr/faculty/member.do?mode=view&userId=bvmjscIc7DYJuiNDgjDA%2Fw%3D%3D)
