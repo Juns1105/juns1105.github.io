@@ -1,5 +1,5 @@
 main:
-  - title: "EvBS: Event-guided Diverse Blur Synthesis for Enhancing Domain-adaptive Motion Deblurring"
+  - title: "EvBS: Event-guided Blur Synthesis for Domain-adaptive Motion Deblurring"
     authors: "<strong>Junsik Jung</strong>, Seokryun Choi, Yoonki Cho, Woo Jae Kim, Andrew Jeong, Sung-Eui Yoon"
     conference_short: "ACM MM"
     conference: "ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2026"
