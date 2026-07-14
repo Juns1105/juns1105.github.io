@@ -6,7 +6,7 @@ main:
     # pdf: "#"
     # code: "#"
     image: "./assets/img/publication_preview/acmmm2026.png"
-    notes: "Under Review"
+    notes: "Accepted"
 
   - title: "Learning Event-guided Exposure-agnostic Video Frame Interpolation via Adaptive Feature Blending"
     authors: "<strong>Junsik Jung</strong>, Yoonki Cho, Woo Jae Kim, Lin Wang, Sung-Eui Yoon"
