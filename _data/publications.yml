@@ -6,6 +6,7 @@ main:
     # pdf: "#"
     # code: "#"
     image: "./assets/img/publication_preview/acmmm2026.png"
+    pdf: https://arxiv.org/html/2608.08066v1
     notes: "Accepted"
 
   - title: "Learning Event-guided Exposure-agnostic Video Frame Interpolation via Adaptive Feature Blending"
