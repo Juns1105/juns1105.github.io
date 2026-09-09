@@ -3,15 +3,15 @@ layout: homepage
 ---
 ## About Me
 
-I am a **Ph.D.** in the School of Computing at **Korea Advanced Institute of Science and Technology (KAIST)**, advised by Prof. [Sung-Eui Yoon](https://sgvr.kaist.ac.kr/~sungeui/).
-
+I am a **Postdoc researcher** in the School of Computing at **Korea Advanced Institute of Science and Technology (KAIST)**, 
+I received my Ph.D. from **KAIST** advised by Prof. [Sung-Eui Yoon](https://sgvr.kaist.ac.kr/~sungeui/).
 Previously, I received my M.S. degree in Electrical & Electronic Engineering from **Yonsei University** (2020) and B.S. degree in Electrical & Computer Engineering from **University of Seoul** (2018).
-## Research Interests
+<!-- ## Research Interests
 
 My research interests lie in **Computational Photography** and **Machine Learning**, including but not limited to:
 - **Event-based Vision**
 - **Robust & Efficient Machine Learning**
-- **Multimodal & Scalable Representation Learning**
+- **Multimodal & Scalable Representation Learning** -->
 
 ## Education
 
